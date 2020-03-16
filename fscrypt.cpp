@@ -1,6 +1,7 @@
 #include "fscrypt.hpp"
 #include <string>
 #include <vector>
+#include <cstring>
 
 using namespace std;
 
